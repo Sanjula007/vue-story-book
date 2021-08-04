@@ -11,8 +11,8 @@
   color: #0f1221;
   background-color: #74fd88;
 }
-.storybook-button--c {
-  color: #f7fa0b;
+.storybook-button--secondary {
+  color: #333;
   background-color: transparent;
   box-shadow: rgba(0, 0, 0, 0.15) 0px 0px 0px 1px inset;
 }
